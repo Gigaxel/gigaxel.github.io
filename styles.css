@@ -184,13 +184,4 @@ section {
   body {
     margin-top: 16px;
   }
-
-  nav {
-    display: block;
-    line-height: 1.8;
-  }
-
-  nav span {
-    display: block;
-  }
 }
