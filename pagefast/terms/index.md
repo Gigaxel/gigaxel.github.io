@@ -43,7 +43,7 @@ PageFast Pro offers access to AI retention quizzes, subject to fair-use limits a
 
 ## Quiz Credits
 
-The current version does not sell quiz-credit packs or offer other ways to earn credits. If your installation holds quiz credits from an earlier version, a credit can still be used for a retention quiz. Quiz credits are for use within PageFast, are not money, and cannot be transferred or redeemed for cash. They are associated with an anonymous installation and should not be assumed to transfer between devices or survive loss of that installation's credentials.
+The current version does not sell quiz-credit packs or offer other ways to earn credits. Quiz credits are for use within PageFast, are not money, and cannot be transferred or redeemed for cash. They are associated with an anonymous installation and should not be assumed to transfer between devices or survive loss of that installation's credentials.
 
 ## Privacy, Availability, and Updates
 
