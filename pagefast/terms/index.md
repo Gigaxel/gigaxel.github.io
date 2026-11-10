@@ -1,6 +1,6 @@
 # Terms of Use for PageFast
 
-Last updated: November 1, 2026
+Last updated: November 10, 2026
 
 These terms describe the PageFast: Speed Reading app and its optional online services, provided by Mehmed Bazdar. Please read them before using PageFast or purchasing PageFast Pro.
 
@@ -26,13 +26,13 @@ AI quizzes are optional and require an internet connection. When you request one
 
 AI-generated questions, answers, explanations, and scores can be inaccurate or incomplete. Review them against the original material. PageFast does not guarantee a particular reading speed, comprehension result, learning outcome, or correctness of generated content.
 
-AI features are subject to daily fair-use limits, request limits, supported input sizes, and service availability. A Pro subscription removes the need to spend quiz credits; it does not remove fair-use or technical limits. If a limit is reached, the app will report it rather than charge you an additional subscription fee.
+AI features are subject to daily fair-use limits, request limits, supported input sizes, and service availability. A Pro subscription does not remove fair-use or technical limits. If a limit is reached, the app will report it rather than charge you an additional subscription fee.
 
-Use the service for your own reading and learning. Do not automate bulk requests, resell access, bypass usage limits, tamper with reward verification, or use the app to infringe others' rights or violate applicable law. Access to online features may be restricted to address abuse or protect the service. This does not cancel a subscription billed by Apple.
+Use the service for your own reading and learning. Do not automate bulk requests, resell access, bypass usage limits, or use the app to infringe others' rights or violate applicable law. Access to online features may be restricted to address abuse or protect the service. This does not cancel a subscription billed by Apple.
 
 ## PageFast Pro Subscriptions
 
-PageFast Pro offers access to AI retention quizzes without spending quiz credits or watching rewarded ads, subject to fair-use limits and service availability. Available plans, subscription duration, localized price, and any eligible offer are shown in the app and Apple's purchase confirmation before you subscribe.
+PageFast Pro offers access to AI retention quizzes, subject to fair-use limits and service availability. Available plans, subscription duration, localized price, and any eligible offer are shown in the app and Apple's purchase confirmation before you subscribe.
 
 - **Billing:** Apple charges the Apple Account used to confirm the purchase. Annual plans are billed for the full annual amount; a monthly equivalent shown for comparison is not a monthly payment plan.
 - **Renewal:** Subscriptions renew automatically unless you cancel renewal before the applicable deadline shown by Apple. To avoid an upcoming renewal, cancel at least 24 hours before the end of the current subscription period. Any applicable local cancellation rights continue to apply.
@@ -41,19 +41,15 @@ PageFast Pro offers access to AI retention quizzes without spending quiz credits
 - **Restore:** Use **Restore Purchases** in the paywall while signed in to the Apple Account that made the purchase. Restoring an eligible subscription does not make a new purchase. Local books, reading history, and installation-specific quiz credits are separate from the subscription and are not restored by that button.
 - **Refunds:** Apple handles refund requests for purchases billed through the App Store. You can [request a refund from Apple](https://support.apple.com/en-us/118223). Eligibility depends on Apple's rules and applicable consumer law; these terms do not remove any mandatory refund rights.
 
-## Optional Rewarded Ads and Quiz Credits
+## Quiz Credits
 
-Free users may choose to watch a rewarded ad to earn a quiz credit. Ad availability is not guaranteed. Credits are granted only after the PageFast server verifies the advertising provider's reward callback; verification may take time. Closing an ad before its reward requirements are met may not earn a credit.
-
-Quiz credit costs and any relevant limits are shown in the app. A larger quiz may require more than one credit. Quiz credits are for use within PageFast, are not money, and cannot be transferred or redeemed for cash. They are associated with an anonymous installation and should not be assumed to transfer between devices or survive loss of that installation's credentials. The current version does not sell quiz-credit packs.
-
-If you believe a verified reward or quiz credit was not applied correctly, contact the developer with the Support ID shown in Settings. Do not send your authentication token.
+The current version does not sell quiz-credit packs or offer other ways to earn credits. If your installation holds quiz credits from an earlier version, a credit can still be used for a retention quiz. Quiz credits are for use within PageFast, are not money, and cannot be transferred or redeemed for cash. They are associated with an anonymous installation and should not be assumed to transfer between devices or survive loss of that installation's credentials.
 
 ## Privacy, Availability, and Updates
 
-The [PageFast Privacy Policy](https://mehmedbazdar.com/pagefast/privacy-policy/) explains local storage, anonymous identifiers, purchases, advertising, AI processing, and your privacy choices.
+The [PageFast Privacy Policy](https://mehmedbazdar.com/pagefast/privacy-policy/) explains local storage, anonymous identifiers, purchases, AI processing, and your privacy rights.
 
-Online features depend on network connectivity and external services, including Apple, RevenueCat, Google, AI providers, and Project Gutenberg. They may be temporarily unavailable. App features and these terms may be updated over time; updated terms will be posted here with a revised date. Material changes will be communicated as required by applicable law. Changes do not override Apple's purchase terms or your mandatory rights.
+Online features depend on network connectivity and external services, including Apple, RevenueCat, AI providers, and Project Gutenberg. They may be temporarily unavailable. App features and these terms may be updated over time; updated terms will be posted here with a revised date. Material changes will be communicated as required by applicable law. Changes do not override Apple's purchase terms or your mandatory rights.
 
 ## Contact
 

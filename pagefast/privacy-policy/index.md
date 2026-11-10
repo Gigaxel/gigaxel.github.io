@@ -1,8 +1,8 @@
 # Privacy Policy for PageFast
 
-Last updated: November 1, 2026
+Last updated: November 10, 2026
 
-PageFast: Speed Reading is an iOS reading app developed by Mehmed Bazdar. This policy explains how PageFast handles information when you read, import books, browse the free book catalog, use AI retention quizzes, subscribe to PageFast Pro, or choose to watch a rewarded ad.
+PageFast: Speed Reading is an iOS reading app developed by Mehmed Bazdar. This policy explains how PageFast handles information when you read, import books, browse the free book catalog, use AI retention quizzes, or subscribe to PageFast Pro.
 
 ## Reading and Local Storage
 
@@ -16,7 +16,7 @@ Importing or reading a document does not upload your library to the PageFast ser
 
 When online features are used, PageFast creates a random installation identifier and an authentication token. The app stores these credentials in the iOS Keychain; the server stores a hashed version of the token. This identifier is not your name or email address, but it links the online activity of that installation.
 
-The PageFast server stores the installation identifier, platform, app version and build number, locale, time zone, and creation and last-use timestamps. It also stores records needed to operate quizzes, subscription access, credit balances, usage limits, reward verification, and fraud prevention.
+The PageFast server stores the installation identifier, platform, app version and build number, locale, time zone, and creation and last-use timestamps. It also stores records needed to operate quizzes, subscription access, credit balances, usage limits, and fraud prevention.
 
 Network requests expose technical information such as your IP address to the services receiving them. PageFast and its hosting and network providers, including Hetzner and Cloudflare, process technical request information to deliver and secure the service and limit abuse.
 
@@ -38,19 +38,9 @@ PageFast uses RevenueCat to manage subscriptions, verify entitlements, and manag
 
 See [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/) and [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-## Optional Rewarded Ads and Privacy Choices
+## No Advertising
 
-Free users may choose to watch a rewarded ad to earn a quiz credit. PageFast uses Google AdMob and Google's User Messaging Platform to request consent and offer privacy choices where required. The app starts the advertising SDK on the rewarded-ad path after the consent gate allows ad requests. PageFast Pro users are not shown rewarded ads.
-
-Google and its advertising partners may process IP addresses and approximate location inferred from them, app or device identifiers, ad impressions and interactions, and diagnostic and performance information. These data support ad delivery, measurement, fraud prevention, and service improvement. The ads available and the use of data depend on your region, privacy choices, and applicable platform restrictions. PageFast does not request precise-location permission or Apple's App Tracking Transparency permission to access the advertising identifier (IDFA).
-
-To verify a reward, PageFast sends an opaque challenge token to Google. Google sends a signed reward callback to the PageFast server. The server records reward transaction details and links the verified credit to your installation; a client-side video-completion event alone does not grant a credit.
-
-Where available, use **Privacy Choices** in PageFast Settings to review or change your advertising privacy choices. You can decline optional consent in the European consent message or opt out of the sale or sharing of personal information through the applicable US privacy message. You can also choose not to watch ads. Changing consent does not undo processing that already occurred lawfully.
-
-PageFast does not sell your reading library or quiz source text to advertisers. Advertising-related data disclosures by ad technology providers may be considered a "sale," "sharing," or targeted advertising under some US state laws; the relevant privacy choices let you opt out where applicable.
-
-See [Google's Privacy Policy](https://policies.google.com/privacy), [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites), and [Google's Mobile Ads SDK data disclosures](https://developers.google.com/admob/ios/privacy/data-disclosure).
+PageFast does not show ads and does not include an advertising SDK. PageFast does not request Apple's App Tracking Transparency permission, does not access the advertising identifier (IDFA), and does not track you across other companies' apps or websites. PageFast does not sell your personal information or share it for targeted advertising.
 
 ## Free Book Catalog
 
@@ -58,7 +48,7 @@ Catalog searches and browsing requests are sent to the PageFast server. Book fil
 
 ## Analytics and Support
 
-PageFast does not currently include a separate third-party product analytics or crash-reporting service. This does not exclude the operational records or the data processed by RevenueCat and Google described above.
+PageFast does not currently include a separate third-party product analytics or crash-reporting service. This does not exclude the operational records or the data processed by RevenueCat described above.
 
 If you contact the developer, your email address, message, and any information you choose to provide are used to respond and resolve your request. Avoid sending your authentication token or sensitive document contents.
 
@@ -68,13 +58,13 @@ Local reading data remains on your device until you remove it using the app's av
 
 Server records currently have no automatic expiration. They are retained to provide your quizzes and access history, maintain balances, prevent duplicate transactions and abuse, and meet applicable legal obligations. To request access, correction, or deletion of information linked to your installation, email **mehmedbazdaret@gmail.com** and include the **Support ID** shown in PageFast Settings so the records can be located. We may need to verify that the request relates to your installation. Some transaction, security, or legally required records may need to be retained.
 
-Manage or cancel subscriptions through your Apple account. Requests concerning information independently held by Apple, Google, RevenueCat, or an AI provider may also need to be directed to that provider.
+Manage or cancel subscriptions through your Apple account. Requests concerning information independently held by Apple, RevenueCat, or an AI provider may also need to be directed to that provider.
 
 ## Your Rights and International Processing
 
-Depending on where you live, you may have rights to access, correct, delete, or obtain a copy of personal information, object to or restrict processing, withdraw consent, and opt out of certain advertising uses. You may also have the right to complain to your local data protection authority. Contact the developer to exercise applicable rights; using a privacy right will not itself result in discrimination.
+Depending on where you live, you may have rights to access, correct, delete, or obtain a copy of personal information, object to or restrict processing, and withdraw consent. You may also have the right to complain to your local data protection authority. Contact the developer to exercise applicable rights; using a privacy right will not itself result in discrimination.
 
-Information may be processed outside your country by the developer and service providers. Where applicable, processing relies on providing the features you request, consent for optional advertising uses, legitimate interests in operating and protecting the service, or legal obligations.
+Information may be processed outside your country by the developer and service providers. Where applicable, processing relies on providing the features you request, legitimate interests in operating and protecting the service, or legal obligations.
 
 ## Children's Privacy
 
